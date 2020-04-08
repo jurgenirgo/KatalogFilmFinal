@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="book_the_movie_button">Book the Movie</string>
+    <string name="title">Title</string>
+    <string name="release">Release Date</string>
+    <string name="genres_header">Genres</string>
+    <string name="Vote">Vote Averange</string>
+    <string name="overview_header">Overview</string>
+    <string name="duration_header">Duration</string>
+    <string name="language_header">Language</string>
+    <string name="generic_error">Oops! Something went wrong,\nPlease try again later...</string>
+    <string name="setting">Setting</string>
+    <string name="exit">Exit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="notification">Notification</string>
+    <string name="turn_on_off">Turn Off/On Notification</string>
+    <string name="daily_reminder">Daily Remainder</string>
+    <string name="release_reminder">Release Remainder</string>
+    <string name="language">Language</string>
+    <string name="change_language">Change Language</string>
+    <string name="change_language_summary">Change your Application Language</string>
+
+    <string name="key_language">key_language</string>
+    <string name="key_daily">key_daily</string>
+    <string name="key_relase">key_release</string>
+
+    <string name="daily_reminder_title">Good morning! it\'s Movie Time!!</string>
+    <string name="daily_reminder_message">Let\'s see the latest movie and tv show</string>
+    <string name="release_reminder_title">Just Release Today!</string>
+    <string name="release_reminder_message">Lets check overview in KatalogFilm</string>
+    <string name="daily_reminder_enable">Daily Reminder Turned On</string>
+    <string name="daily_reminder_disable">Daily Reminder Turned Off</string>
+    <string name="release_reminder_enable">Release Reminder Turned On</string>
+    <string name="release_reminder_disable">Release Reminder Turned Off</string>
+</resources>

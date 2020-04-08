@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <string name="book_the_movie_button">Book the Movie</string>
+    <string name="title">Judul</string>
+    <string name="release">Tanggal Tayang</string>
+    <string name="genres_header">Genre</string>
+    <string name="Vote">Rata-rata Peniliaian</string>
+    <string name="overview_header">Gambaran</string>
+    <string name="duration_header">Durasi</string>
+    <string name="language_header">Bahasa</string>
+    <string name="generic_error">Ups! Ada yang salah,\nHarap coba lagi nanti...</string>
+    <string name="setting">Pengaturan</string>
+    <string name="exit">Keluar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="notification">Pemberitahuan</string>
+    <string name="turn_on_off">Nyalakan/Matikan Notifikasi</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_reminder">Pengingat Terbaru</string>
+    <string name="language">Bahasa</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="change_language_summary">Ubah Bahasa Aplikasi Anda</string>
+
+    <string name="key_language">key_language</string>
+    <string name="key_daily">key_daily</string>
+    <string name="key_relase">key_release</string>
+
+    <string name="daily_reminder_title">Selamat Pagi!! Waktu nya Film</string>
+    <string name="daily_reminder_message">Ayo kita lihat film dan tv show terbaru</string>
+    <string name="release_reminder_title">Baru tayang hari ini</string>
+    <string name="release_reminder_message">Ayo kita cek overview di KatalogFilm</string>
+    <string name="daily_reminder_enable">Pengingat harian dinyalakan</string>
+    <string name="daily_reminder_disable">Pengingat harian dimatikan</string>
+    <string name="release_reminder_enable">Pengingat tayangan dinyalakan</string>
+    <string name="release_reminder_disable">Pengingat tayangan dimatikan</string>
+</resources>
